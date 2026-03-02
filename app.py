@@ -125,4 +125,4 @@ except Exception as e:
     st.error(f'エラーが発生しました: {str(e)}')
     import traceback
     st.code(traceback.format_exe())
-st.write('copyright © 2021 AHAMMED MD SOURAV All Rights Reserved')    
+st.write('copyright © 2021 BAPARI MD ABU BAKKAR All Rights Reserved')    
